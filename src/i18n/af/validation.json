@@ -1,0 +1,11 @@
+{
+  "NOT_EMPTY": "{property} cannot be empty",
+  "MOBILE_REGISTERED": "این موبایل از قبل ثبت شده است",
+  "EMAIL_REGISTERED": "این ایمیل از قبل ثبت شده است",
+  "EMPLOYEE_REGISTERED_WITH_THIS_MOBILE":"با این شماره تماس کارمند ثبت شده است",
+  "CUSTOMER_REGISTERED_WITH_THIS_MOBILE_AND_BRANCH":"با این شماره تماس مشتری برای شما ثبت شده است",
+  "INVALID_EMAIL": "ایمیلت اشتباهه خوشگله",
+  "INVALID_BOOLEAN": "{property} is not a boolean",
+  "MIN": "{property} with value: \"{value}\" needs to be at least {constraints.0}, ow and {message}",
+  "MAX": "{property} with value: \"{value}\" needs to be less than {constraints.0}, ow and {message}"
+}
